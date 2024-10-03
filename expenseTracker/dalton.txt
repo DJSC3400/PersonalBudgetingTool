@@ -1,0 +1,5 @@
+dalton
+0.000000
+
+BeginArrayList
+2|26-03-2024 11:32 AM|-6.99|pizza||null
